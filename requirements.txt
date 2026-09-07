@@ -1,0 +1,6 @@
+streamlit
+pandas
+pytz
+face-recognition
+opencv-python-headless
+streamlit-geolocation
